@@ -21,7 +21,7 @@ To run this project, you need to have a web browser installed on your computer.
 1. Clone the repository:
 
     ```
-    git clone https://github.com/your-username/todo-app.git
+    git clone https://github.com/ohitsmemohit/TodoList.git
     ```
 
 2. Navigate to the project directory:
