@@ -8,6 +8,8 @@ The To-Do App is a simple web application that allows you to create and manage a
 - Mark tasks as completed: Click on a task to mark it as completed, which will apply a line-through decoration to the task.
 - Delete tasks: Double-click on a task to remove it from the list.
 
+### Static Deployment Link: https://ohitsmemohit.github.io/TodoList/
+
 ## Getting Started
 
 Follow the instructions below to get a local copy of the To-Do App up and running on your machine.
